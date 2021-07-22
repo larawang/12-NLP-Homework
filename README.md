@@ -1,4 +1,4 @@
-# 12-NLP-Homework
+# 12-NLP Homework
 
 ### This assignment focuses on Sentiment Analysis, Natural Language Processing, and Named Entity Recognization.
 
