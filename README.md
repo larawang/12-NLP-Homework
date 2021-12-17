@@ -1,6 +1,10 @@
 # 12-NLP Homework
 
-### This assignment focuses on Sentiment Analysis, Natural Language Processing, and Named Entity Recognization.
+
+### Background: There's been a lot of hype in the news lately about cryptocurrency, so you want to take stock, so to speak, of the latest news headlines regarding Bitcoin and Ethereum to get a better feel for the current public sentiment around each coin.
+
+
+In this assignment, I will  will apply natural language processing to understand the sentiment in the latest news articles featuring Bitcoin and Ethereumfocuses. I will also focus on Sentiment Analysis, Natural Language Processing, and Named Entity Recognization.
 
 For the questions of Sentiment Analysis, the anwsers are as follow:
 
